@@ -14,4 +14,4 @@
 ###### 02 - Warm-up Challenge
 
 - [01 - Sock Merchant](02-Warmup-Challenges/01-Sock-Merchant.js)
-- [02 - Counting Valleys](02-Counting-Valleys.js)
+- [02 - Counting Valleys](02-Warmup-Challenges/02-Counting-Valleys.js)
