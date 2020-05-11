@@ -11,6 +11,7 @@
 - [3 Algorithm Strategies](https://www.youtube.com/watch?v=84UYVCluClQ)
 
 
-###### 02 - Warm-up Challenges
+###### 02 - Warm-up Challenge
 
 - [01 - Sock Merchant](02-Warmup-Challenges/01-Sock-Merchant.js)
+- [02 - Counting Valleys](02-Counting-Valleys.js)
