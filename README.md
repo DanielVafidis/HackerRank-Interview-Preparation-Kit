@@ -1,6 +1,6 @@
-#HackerRank - Interview Preparation Kit
+# HackerRank - Interview Preparation Kit
 
-## Here are my solutions to the `Interview Preparation Kit` practice tutorial on HackerRank.
+## Here are my solutions to the `Interview Preparation Kit` practice tutorial on HackerRank (In Javascript).
 
 
 ###### 01 - Tips and Guidelines
