@@ -16,3 +16,8 @@
 - [01 - Sock Merchant](02-Warmup-Challenges/01-Sock-Merchant.js)
 - [02 - Counting Valleys](02-Warmup-Challenges/02-Counting-Valleys.js)
 - [03 - Jumping on the Clouds](02-Warmup-Challenges/03-Jumping-on-the-Clouds.js)
+
+
+###### 03 - Arrays
+
+- [01 - 2D Array DS](03-Arrays/01-2D-Array-DS.js)
