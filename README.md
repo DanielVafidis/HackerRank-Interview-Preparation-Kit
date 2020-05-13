@@ -4,11 +4,10 @@
 
 
 ###### 01 - Tips and Guidelines
-- [How companies Evaluate Technical Interviews](https://www.youtube.com/watch?v=jxAWQN5t6wg)
-
-- [How to Approach Behavioral Questions](https://www.youtube.com/watch?v=tZxNNKqxXnw)
-- [7 Steps to Solve Algorithm Problems](https://www.youtube.com/watch?v=GKgAVjJxh9w)
-- [3 Algorithm Strategies](https://www.youtube.com/watch?v=84UYVCluClQ)
+- [01 - How companies Evaluate Technical Interviews](https://www.youtube.com/watch?v=jxAWQN5t6wg)
+- [02 - How to Approach Behavioral Questions](https://www.youtube.com/watch?v=tZxNNKqxXnw)
+- [03 - 7 Steps to Solve Algorithm Problems](https://www.youtube.com/watch?v=GKgAVjJxh9w)
+- [04 - 3 Algorithm Strategies](https://www.youtube.com/watch?v=84UYVCluClQ)
 
 
 ###### 02 - Warm-up Challenge
