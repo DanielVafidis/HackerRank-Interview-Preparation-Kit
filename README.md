@@ -21,3 +21,4 @@
 
 - [01 - 2D Array DS](03-Arrays/01-2D-Array-DS.js)
 - [02 - Arrays Left Rotation](03-Arrays/02-Arrays-Left-Rotation.js)
+- [03 - Minimum Swaps 2](03-Arrays/03-Minimum-Swaps-2.js)
