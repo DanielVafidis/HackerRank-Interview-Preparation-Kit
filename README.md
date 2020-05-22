@@ -22,3 +22,9 @@
 - [01 - 2D Array DS](03-Arrays/01-2D-Array-DS.js)
 - [02 - Arrays Left Rotation](03-Arrays/02-Arrays-Left-Rotation.js)
 - [03 - Minimum Swaps 2](03-Arrays/03-Minimum-Swaps-2.js)
+
+
+###### 04 - Dictionaries and Hashmaps
+
+- [01 - Ransom-Note](04-Dictionaries-and-Hashmaps/01-Ransom-Note.js)
+- [02 - Two Strings](04-Dictionaries-and-Hashmaps/02-Two-Strings.js)
